@@ -6,8 +6,6 @@ Please before Run the project
 1) open command Prompt
 2) Go to the folder where the project is (In the Command Prompt)
 3) Then write the following command into cmd : 
- *******************
- *                 *
- *  npm install    *
- *                 *
- *******************
+ **************
+  npm install    
+ **************
